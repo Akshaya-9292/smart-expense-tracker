@@ -1,0 +1,5 @@
+{'food': 1000}
+{'Shopping': 3000}
+{'House rent': 5000}
+{'Travel': 2000}
+{'House rent': 5000}
